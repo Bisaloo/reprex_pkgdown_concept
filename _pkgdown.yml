@@ -1,0 +1,8 @@
+url: ~
+template:
+  bootstrap: 5
+
+reference:
+  - title: test
+    contents:
+      - has_concept("test")
